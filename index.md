@@ -19,3 +19,6 @@ m = ''.join(r)
 print(m)
 
 ```
+ - [ ] First to do
+ - [ ] Second to do
+ - [ ] Third to do
